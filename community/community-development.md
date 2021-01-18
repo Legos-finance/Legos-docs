@@ -10,7 +10,7 @@ description: >-
 
 We want to foster a community of Metanauts - our community of Legos.finance evangelists - who want to actively participate in the long-term growth of the Legos.finance community as the project builds out its vision of autonomous and non-custodial stablecoin infrastructure.
 
-If you love the product and want to see Legos.finance grow to a billion-dollar DeFi protocol, there are many ways that you can contribute. Read on to find out how!
+If you love the product and want to see Legos.finance grow to a billion-dollar DeFi protocol, there are many ways that you can contribute.
 
 ## Metanauts Assemble!
 
